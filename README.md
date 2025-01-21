@@ -40,14 +40,6 @@ What’s in it for you? You get to:
 
 ---
 
-## Sneak Peek 
-
-Here’s what the finished dashboard looks like in action:
-
-![Dashboard Preview](https://github.com/kcalomento/Belly-Button-Challenge/blob/main/dashboard-preview.png)
-
----
-
 ## Why This Matters 
 
 Microbes are everywhere—and they’re essential! They affect our health, environment, and more. This dashboard is a small peek into that invisible world, bringing the data to life for anyone curious about the biodiversity we carry with us.

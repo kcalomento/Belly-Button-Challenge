@@ -47,5 +47,5 @@ Microbes are everywhere—and they’re essential! They affect our health, envir
 ---
 
 - **D3.js**: For fetching and organizing data.
-- **Plotly.js**: To create beautiful, interactive visualizations.
-- **HTML/CSS/JavaScript**: The building blocks of the dashboard.
+- **Plotly.js**: To create interactive visualizations.
+- **HTML/JavaScript**: The building blocks of the dashboard.
